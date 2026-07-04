@@ -7,6 +7,8 @@
 > Rust 编写，单二进制（~18MB），跨平台（Linux / Windows）
 >
 > 📦 本仓库仅提供编译后的可执行文件
+>
+> Welcome! Your feedback and suggestions are appreciated.
 
 <!-- 📸 SCREENSHOT_01_HERO: 建议放置 GUI 主界面全貌截图，展示：左侧 Agent 列表 + 中间对话窗口（含代码输出）+ 右侧或顶部会话标签页。宽 1000-1200px，这是 README 的首屏图，需要最有吸引力的一张。 -->
 
