@@ -75,6 +75,8 @@ tiecode --gui
 tiecode --agent taiyi "帮我分析这个项目的架构"
 ```
 
+![image](https://github.com/TieCoolLe/Tie/blob/main/images/gui%E4%B8%BB%E7%95%8C%E9%9D%A2.png)
+
 <!-- 📸 SCREENSHOT_02_GUI_TASK: GUI 中一次完整任务执行的截图，展示 Agent 读取文件 → 写代码 → 运行测试 → 输出结果的全流程。 -->
 
 ---
