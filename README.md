@@ -53,7 +53,7 @@ sudo mv tiecode-vX.Y.Z-x86_64 /usr/local/bin/tiecode
 
 ### 2. 启动、配置 API Key
 
-首次启动，选择数据存目录，确定后进入tiecode gui主界面。在运行设置中添加大模型供应商API Key并保存。
+首次启动，选择数据存目录，确定后进入tiecode gui主界面。在界面右上角设置中添加大模型供应商API Key并保存。
 
 支持所有兼容 OpenAI Chat Completions API 的服务商：DeepSeek、智谱 GLM、通义千问、OpenAI、Ollama（本地模型）等。
 
