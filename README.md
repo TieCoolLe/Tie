@@ -124,7 +124,7 @@ Agent Creator 是 tiecode 的元 Agent 功能——用 AI 帮你设计 Agent 的
 1. 你输入一段自然语言描述（甚至可以是"帮我做一个代码审查的 agent"）
 2. 元 Agent 按六要素架构（身份→认知→决策→工作流→约束→输出）生成结构化 prompt
 3. 质量评估器跑 20+ 项启发式检查，生成评分报告
-4. 提示词用 **AES-GCM 加密**存储到 `~/.tiecode/agents/<name>.yaml`
+4. 提示词用 AES-GCM 加密存储到 `~/.tiecode/agents/<name>.yaml`
 5. 运行时透明解密，原始输入保留用于后续再增强
 
 **质量评估维度：**
